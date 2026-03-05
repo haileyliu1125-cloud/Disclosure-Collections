@@ -13,4 +13,4 @@
 
 ## 🚀 快速开始
 
-网站已自动部署到 GitHub Pages，访问：  
+网站已自动部署到 GitHub Pages，访问：https://haileyliu1125-cloud.github.io/disclosure-collection
